@@ -11,7 +11,7 @@
 
 | Project | Technology |
 | -------------------------------------- | -------------------- |
-| **Car‑Rental‑System** | CSS |
+| **Car‑Rental‑System** | Full stack |
 | **connect_four** | Python |
 | **8‑puzzle AI** | Python |
 | **small‑machine‑learning‑project** | Jupyter Notebook |
