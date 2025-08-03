@@ -7,12 +7,6 @@
 
 ---
 
-
-
-<p align="center">
-    <em>"Code is like humor. When you have to explain it, it's bad."</em>  
-</p>
-
 ## 📫 **How to reach me** 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ahmed.amrsoffar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-soffar-b7b9a521b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedamrahmed73@gmail.com) 
 
