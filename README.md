@@ -7,22 +7,7 @@
 
 ---
 
-## 📂 **Projects**  
 
-| Project | Technology |
-| -------------------------------------- | -------------------- |
-| **Car‑Rental‑System** | Full stack |
-| **connect_four** | Python |
-| **8‑puzzle AI** | Python |
-| **small‑machine‑learning‑project** | Jupyter Notebook |
-| **photo‑segmentation** | Jupyter Notebook |
-| **CNN rock‑paper‑scissors video recognition** | Jupyter Notebook |
-| **Circus** | Java |
-| **chess‑game** | Java |
-
-⭐ Feel free to check them out and give a star if you find them interesting!  
-
----
 
 <p align="center">
     <em>"Code is like humor. When you have to explain it, it's bad."</em>  
